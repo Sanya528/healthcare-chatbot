@@ -1,0 +1,127 @@
+2025-11-26 09:15:53,046	INFO	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-26 09:15:53,046	INFO	[33mPress CTRL+C to quit[0m
+2025-11-26 09:15:53,067	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:17:15,429	WARNING	 * Debugger is active!
+2025-11-26 09:17:15,437	INFO	 * Debugger PIN: 425-095-605
+2025-11-26 09:17:15,475	INFO	127.0.0.1 - - [26/Nov/2025 09:17:15] "GET / HTTP/1.1" 200 -
+2025-11-26 09:18:29,968	INFO	127.0.0.1 - - [26/Nov/2025 09:18:29] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:18:30,275	INFO	user_id=anonymous	message=itching and rashes and redness in eyes	low_confidence=0.3771	top_candidates=[('fungal infection', 0.3771), ('chronic cholestasis', 0.3379), ('drug reaction', 0.3323)]
+2025-11-26 09:18:30,275	INFO	127.0.0.1 - - [26/Nov/2025 09:18:30] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:35,164	INFO	127.0.0.1 - - [26/Nov/2025 09:18:35] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:18:35,360	INFO	user_id=anonymous	message=yes	low_confidence=0.1189	top_candidates=[('gastroenteritis', 0.1189), ('allergy', 0.111), ('hepatitis c', 0.077)]
+2025-11-26 09:18:35,360	INFO	127.0.0.1 - - [26/Nov/2025 09:18:35] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:38,952	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:38,953	INFO	127.0.0.1 - - [26/Nov/2025 09:18:38] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:42,716	INFO	127.0.0.1 - - [26/Nov/2025 09:18:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:18:42,866	INFO	user_id=anonymous	message=yes	low_confidence=0.1189	top_candidates=[('gastroenteritis', 0.1189), ('allergy', 0.111), ('hepatitis c', 0.077)]
+2025-11-26 09:18:42,866	INFO	127.0.0.1 - - [26/Nov/2025 09:18:42] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:45,893	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:45,895	INFO	127.0.0.1 - - [26/Nov/2025 09:18:45] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:48,811	INFO	127.0.0.1 - - [26/Nov/2025 09:18:48] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:18:48,962	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:48,964	INFO	127.0.0.1 - - [26/Nov/2025 09:18:48] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:51,379	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:51,381	INFO	127.0.0.1 - - [26/Nov/2025 09:18:51] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:53,291	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:53,293	INFO	127.0.0.1 - - [26/Nov/2025 09:18:53] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:18:55,787	INFO	127.0.0.1 - - [26/Nov/2025 09:18:55] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:18:56,081	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:18:56,081	INFO	127.0.0.1 - - [26/Nov/2025 09:18:56] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:20:02,548	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\tempCodeRunnerFile.py', reloading
+2025-11-26 09:20:02,646	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\tempCodeRunnerFile.py', reloading
+2025-11-26 09:20:05,207	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:22:13,522	WARNING	 * Debugger is active!
+2025-11-26 09:22:13,528	INFO	 * Debugger PIN: 425-095-605
+2025-11-26 09:22:13,556	INFO	127.0.0.1 - - [26/Nov/2025 09:22:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:22:13,562	INFO	127.0.0.1 - - [26/Nov/2025 09:22:13] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:22:13,707	INFO	user_id=anonymous	message=i am feeling a little dizzy and have headace since the morning	low_confidence=0.1623	top_candidates=[('(vertigo) paroymsal  positional vertigo', 0.1623), ('hypertension', 0.159), ('migraine', 0.1495)]
+2025-11-26 09:22:13,709	INFO	127.0.0.1 - - [26/Nov/2025 09:22:13] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:22:42,617	INFO	127.0.0.1 - - [26/Nov/2025 09:22:42] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:22:42,793	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:22:42,793	INFO	127.0.0.1 - - [26/Nov/2025 09:22:42] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:22:46,000	INFO	user_id=anonymous	message=yes	low_confidence=0.1189	top_candidates=[('gastroenteritis', 0.1189), ('allergy', 0.111), ('hepatitis c', 0.077)]
+2025-11-26 09:22:46,000	INFO	127.0.0.1 - - [26/Nov/2025 09:22:46] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:22:50,325	INFO	127.0.0.1 - - [26/Nov/2025 09:22:50] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:22:50,504	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:22:50,504	INFO	127.0.0.1 - - [26/Nov/2025 09:22:50] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:25:16,129	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\bert_model.py', reloading
+2025-11-26 09:25:16,132	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\bert_model.py', reloading
+2025-11-26 09:25:16,139	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\bert_model.py', reloading
+2025-11-26 09:25:17,545	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:27:15,568	WARNING	 * Debugger is active!
+2025-11-26 09:27:15,576	INFO	 * Debugger PIN: 425-095-605
+2025-11-26 09:27:15,606	INFO	127.0.0.1 - - [26/Nov/2025 09:27:15] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:27:15,760	INFO	user_id=anonymous	message=i have high fever and headache	low_confidence=0.3709	top_candidates=[('malaria', 0.3709), ('typhoid', 0.3155), ('dengue', 0.2765)]
+2025-11-26 09:27:15,762	INFO	127.0.0.1 - - [26/Nov/2025 09:27:15] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:27:53,294	INFO	127.0.0.1 - - [26/Nov/2025 09:27:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:27:53,486	INFO	user_id=anonymous	message=yes	low_confidence=0.1189	top_candidates=[('gastroenteritis', 0.1189), ('allergy', 0.111), ('hepatitis c', 0.077)]
+2025-11-26 09:27:53,486	INFO	127.0.0.1 - - [26/Nov/2025 09:27:53] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:27:56,571	INFO	user_id=anonymous	message=no	low_confidence=0.0447	top_candidates=[('hypertension', 0.0447), ('jaundice', 0.0428), ('impetigo', 0.0412)]
+2025-11-26 09:27:56,571	INFO	127.0.0.1 - - [26/Nov/2025 09:27:56] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:27:59,306	INFO	127.0.0.1 - - [26/Nov/2025 09:27:59] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:27:59,460	INFO	user_id=anonymous	message=yes	low_confidence=0.1189	top_candidates=[('gastroenteritis', 0.1189), ('allergy', 0.111), ('hepatitis c', 0.077)]
+2025-11-26 09:27:59,460	INFO	127.0.0.1 - - [26/Nov/2025 09:27:59] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:31:08,710	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:31:08,712	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:31:08,715	INFO	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:31:10,147	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:33:32,769	WARNING	 * Debugger is active!
+2025-11-26 09:33:32,769	INFO	 * Debugger PIN: 425-095-605
+2025-11-26 09:33:32,841	INFO	127.0.0.1 - - [26/Nov/2025 09:33:32] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:33:33,120	INFO	 * Detected change in 'C:\\Users\\sanya\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+2025-11-26 09:33:33,126	INFO	 * Detected change in 'C:\\Users\\sanya\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2025-11-26 09:33:33,161	INFO	127.0.0.1 - - [26/Nov/2025 09:33:33] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-26 09:33:35,580	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:34:55,058	 * Debugger is active!
+2025-11-26 09:34:55,064	 * Debugger PIN: 425-095-605
+2025-11-26 09:35:25,972	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\app.py', reloading
+2025-11-26 09:35:25,976	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\app.py', reloading
+2025-11-26 09:35:25,976	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\app.py', reloading
+2025-11-26 09:35:27,826	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:36:45,921	 * Debugger is active!
+2025-11-26 09:36:45,929	 * Debugger PIN: 425-095-605
+2025-11-26 09:36:45,962	127.0.0.1 - - [26/Nov/2025 09:36:45] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:36:46,096	127.0.0.1 - - [26/Nov/2025 09:36:46] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:36:59,624	127.0.0.1 - - [26/Nov/2025 09:36:59] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:36:59,896	127.0.0.1 - - [26/Nov/2025 09:36:59] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:37:04,117	127.0.0.1 - - [26/Nov/2025 09:37:04] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:37:06,769	127.0.0.1 - - [26/Nov/2025 09:37:06] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:37:06,926	127.0.0.1 - - [26/Nov/2025 09:37:06] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:37:09,573	127.0.0.1 - - [26/Nov/2025 09:37:09] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:37:11,602	127.0.0.1 - - [26/Nov/2025 09:37:11] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:37:14,596	127.0.0.1 - - [26/Nov/2025 09:37:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:37:14,737	127.0.0.1 - - [26/Nov/2025 09:37:14] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:39:37,182	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:39:38,580	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:41:14,900	 * Debugger is active!
+2025-11-26 09:41:14,911	 * Debugger PIN: 425-095-605
+2025-11-26 09:41:14,961	127.0.0.1 - - [26/Nov/2025 09:41:14] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:41:15,245	127.0.0.1 - - [26/Nov/2025 09:41:15] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:18,248	127.0.0.1 - - [26/Nov/2025 09:41:18] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:20,530	127.0.0.1 - - [26/Nov/2025 09:41:20] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:41:20,696	127.0.0.1 - - [26/Nov/2025 09:41:20] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:23,589	127.0.0.1 - - [26/Nov/2025 09:41:23] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:26,511	127.0.0.1 - - [26/Nov/2025 09:41:26] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:41:26,695	127.0.0.1 - - [26/Nov/2025 09:41:26] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:29,341	127.0.0.1 - - [26/Nov/2025 09:41:29] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:32,946	127.0.0.1 - - [26/Nov/2025 09:41:32] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:41:33,115	127.0.0.1 - - [26/Nov/2025 09:41:33] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:35,873	127.0.0.1 - - [26/Nov/2025 09:41:35] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:37,745	127.0.0.1 - - [26/Nov/2025 09:41:37] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:41:39,446	127.0.0.1 - - [26/Nov/2025 09:41:39] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:41:39,596	127.0.0.1 - - [26/Nov/2025 09:41:39] "POST /chat HTTP/1.1" 200 -
+2025-11-26 09:46:11,612	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:46:11,618	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:46:11,618	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:46:12,848	INFO	 * Restarting with watchdog (windowsapi)
+2025-11-26 09:47:51,949	 * Debugger is active!
+2025-11-26 09:47:51,966	 * Debugger PIN: 425-095-605
+2025-11-26 09:47:52,006	127.0.0.1 - - [26/Nov/2025 09:47:52] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:47:52,240	127.0.0.1 - - [26/Nov/2025 09:47:52] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-26 09:48:56,084	127.0.0.1 - - [26/Nov/2025 09:48:56] "OPTIONS /chat HTTP/1.1" 200 -
+2025-11-26 09:48:56,463	127.0.0.1 - - [26/Nov/2025 09:48:56] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-11-26 09:50:14,701	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:50:14,705	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:50:14,705	 * Detected change in 'C:\\Users\\sanya\\Downloads\\Healthcare Chatbot-20251117T040119Z-1-001\\healthcare-chatbot\\backend\\hybrid_model.py', reloading
+2025-11-26 09:50:16,082	INFO	 * Restarting with watchdog (windowsapi)
